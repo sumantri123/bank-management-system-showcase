@@ -57,7 +57,7 @@ Selain digunakan sebagai media pembelajaran, sistem ini juga mendukung pengelola
 ### Laporan Saldo Harian Nasabah Tabungan
 
 <p align="center">
-  <img src="./capture/laporan_saldo_harian_nasabah_tabungan.PNG" width="700">
+  <img src="./capture/laporan_saldo_harian_nasabah_tabungan.png" width="700">
 </p>
 
 ### Laporan Posisi Keuangan
