@@ -1,9 +1,12 @@
-# Bank Management System
+# Bank Management System (SHOWCASE)
 ![Laravel](https://img.shields.io/badge/Laravel-6.20-red) ![PHP](https://img.shields.io/badge/PHP-7-blue) ![MySQL](https://img.shields.io/badge/MySQL-Database-orange) ![Ubuntu](https://img.shields.io/badge/Ubuntu-20.04-E95420)
 
 <p align="center">
   <img src="./capture/banner_sisland.png" width="900">
 </p>
+
+Aplikasi ini merupakan **showcase / demo project** yang digunakan untuk portofolio.  
+Beberapa data dan fitur mungkin tidak sepenuhnya lengkap atau disederhanakan untuk kebutuhan portofolio.
 
 Sistem informasi perbankan berbasis web yang dirancang untuk mendukung proses pembelajaran operasional perbankan konvensional secara terintegrasi, modern, dan aplikatif. Sistem ini dikembangkan sebagai media simulasi praktik perbankan bagi mahasiswa, dosen, maupun laboran agar proses pembelajaran tidak hanya bersifat teoritis tetapi juga memberikan pengalaman operasional yang menyerupai dunia kerja nyata.
 
